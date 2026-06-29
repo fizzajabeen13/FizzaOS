@@ -1,6 +1,7 @@
 "use client";
 
 import Link from "next/link";
+import { Suspense } from "react";
 import { ArrowLeft, CheckCircle2, Clock, Circle, Rocket } from "lucide-react";
 import { useSearchParams } from "next/navigation";
 
@@ -77,7 +78,7 @@ const projects = {
 
 type ProjectKey = keyof typeof projects;
 
-export default function MissionStatusPage() {
+function MissionStatusContent() {
   const searchParams = useSearchParams();
   const selectedProject = searchParams.get("project") as ProjectKey | null;
 
@@ -216,5 +217,21 @@ export default function MissionStatusPage() {
         </div>
       </section>
     </main>
+  );
+}
+
+export default function MissionStatusPage() {
+  return (
+    <Suspense
+      fallback={
+        <main className="flex min-h-screen items-center justify-center bg-[#030712] text-slate-100">
+          <p className="font-mono text-sm text-blue-400">
+            Loading mission status...
+          </p>
+        </main>
+      }
+    >
+      <MissionStatusContent />
+    </Suspense>
   );
 }
