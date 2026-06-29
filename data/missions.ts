@@ -35,7 +35,7 @@ export const missions = [
     futurePlans: ["Business dashboard", "WhatsApp integration", "Analytics panel"],
     demo: "/mission-status?project=smartconnect-ai",
     github: "/mission-status?project=smartconnect-ai",
-    screenshot: "/images/smart-connect-ai/coming-soon.PNG",
+    screenshot: "/images/smart-connect-ai/coming-soon.png",
   },
   {
     code: "MISSION 002",
@@ -70,10 +70,10 @@ export const missions = [
     github: "https://github.com/fizzajabeen13/Alpine-MediScan-AI",
     screenshots: [
       "/images/alpine-mediscan/Dashboard.PNG",
-      "/images/alpine-mediscan/Patient-Info.png",
-      "/images/alpine-mediscan/Face-Scan.png",
-      "/images/alpine-mediscan/Symptoms-Selection.png",
-      "/images/alpine-mediscan/Report.png"
+      "/images/alpine-mediscan/Patient-Info.PNG",
+      "/images/alpine-mediscan/Face-Scan.PNG",
+      "/images/alpine-mediscan/Symptoms-Selection.PNG",
+      "/images/alpine-mediscan/Report.PNG"
     ]
   },
   {
@@ -131,13 +131,13 @@ export const missions = [
     demo: "https://solutions-5jec.vercel.app/",
     github: "https://github.com/fizzajabeen13/Solutions-Business-Website",
     screenshots: [
-      "/images/solutions/Homepage.png",
+      "/images/solutions/Homepage.PNG",
       "/images/solutions/Services.PNG",
       "/images/solutions/Projects.PNG",
-      "/images/solutions/TestimonialsAndFAQs.png",
-      "/images/solutions/BookNow.png",
-      "/images/solutions/ContactForm.png",
-      "/images/solutions/Responsiveness.png",
+      "/images/solutions/TestimonialsAndFAQs.PNG",
+      "/images/solutions/BookNow.PNG",
+      "/images/solutions/ContactForm.PNG",
+      "/images/solutions/Responsiveness.PNG",
     ],
   },
   {
@@ -166,14 +166,13 @@ export const missions = [
     futurePlans: ["More AI tools", "User accounts", "Dashboard system"],
     demo: "https://fiz-n-pine-ai-new-8r4c.vercel.app/",
     github: "https://github.com/fizzajabeen13/FizNPine-AI-Chatbot",
-    screenshot: "/images/fiznpine/Homepage.png",
     screenshots: [
-      "/images/fiznpine/Homepage.png",
-      "/images/fiznpine/Coding.png",
-      "/images/fiznpine/ContentWriting.png",
-      "/images/fiznpine/DarkMode.png",
-      "/images/fiznpine/Assisting.png",
-      "/images/fiznpine/Responsiveness.png",
+      "/images/fiznpine/Homepage.PNG",
+      "/images/fiznpine/Coding.PNG",
+      "/images/fiznpine/ContentWriting.PNG",
+      "/images/fiznpine/DarkMode.PNG",
+      "/images/fiznpine/Assisting.PNG",
+      "/images/fiznpine/Responsiveness.PNG",
     ],
   },
   {
@@ -239,6 +238,6 @@ export const missions = [
     futurePlans: ["Book detail pages", "Blog system", "Newsletter section"],
     demo: "/mission-status?project=book-portfolio",
     github: "/mission-status?project=book-portfolio",
-    screenshot: "/images/book-portfolio/coming-soon.PNG",
+    screenshot: "/images/book-portfolio/coming-soon.png",
   },
 ];
