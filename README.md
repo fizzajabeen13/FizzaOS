@@ -1,36 +1,79 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# FizzaOS — Developer Portfolio
 
-## Getting Started
+## Overview
 
-First, run the development server:
+FizzaOS is a futuristic developer portfolio inspired by an operating system interface. It showcases my projects, technical skills, development journey, and current missions through an immersive and interactive user experience.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+The portfolio is designed to reflect my passion for building modern web applications, AI-powered solutions, and scalable full-stack products.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Live Demo
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+🌐 **Portfolio:** https://fizzaos.vercel.app/
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Features
 
-## Learn More
+* Futuristic OS-inspired interface
+* Responsive design for all devices
+* Interactive Mission Control dashboard
+* Project showcase with live demos and GitHub links
+* Mission Status pages for projects in active development
+* Recruiter Mode with quick access to resume and profiles
+* Downloadable CV
+* Smooth animations and transitions
+* Modern UI built with Tailwind CSS
 
-To learn more about Next.js, take a look at the following resources:
+## Projects
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+* ✅ TechNova — Electronics E-Commerce Website
+* ✅ Alpine MediScan AI
+* ✅ FizNPine AI
+* ✅ Solutions Business Website
+* ✅ Modern Landing Page
+* 🚧 TechNova V2 *(Coming Soon)*
+* 🚧 SmartConnect AI *(In Development)*
+* 🚧 Book Portfolio *(In Development)*
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Tech Stack
 
-## Deploy on Vercel
+* Next.js
+* React
+* TypeScript
+* Tailwind CSS
+* Framer Motion
+* Lucide React
+* Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Screenshots
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+| Home Page            | Objective      |
+| ---------------- | -------------------- |
+| ![](Screenshots/Homepage.PNG) | ![](Screenshots/Objective.PNG) |
+
+| System Status             | Mission Control   |
+| -------------------- | --------------------- |
+| ![](Screenshots/SystemStatus.PNG) | ![](Screenshots/MissionControl.PNG) |
+
+| Active Missions             | Modules            |
+| -------------------------- | ------------------- |
+| ![](Screenshots/ActiveMissions.PNG) | ![](Screenshots/Modules.PNG) |
+
+| Future Archive             | Contact Terminal            |
+| -------------------------- | ------------------- |
+| ![](Screenshots/FutureArchive.PNG) | ![](Screenshots/ContactTerminal.PNG) |
+
+| Terminal             | Recruiter Mode             |
+| -------------------------- | ------------------- |
+| ![](Screenshots/Terminal.PNG) | ![](Screenshots/RecruiterMode.PNG) |
+
+| Responsive             |
+| -------------------------- |
+| ![](Screenshots/Responsive.PNG) |
+
+## Author
+
+**Fizza Jabeen**
+
+AI & Full Stack Developer
+
+* GitHub: https://github.com/fizzajabeen1
+* LinkedIn: https://www.linkedin.com/in/fizza-jabeen-13ch/
