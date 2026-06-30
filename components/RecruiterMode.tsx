@@ -18,7 +18,7 @@ export default function RecruiterMode() {
   const links = [
     {
       label: "Download Resume",
-      href: "/Fizza-Jabeen-Resume.pdf",
+      href: "/Fizza_Jabeen_Resume.pdf",
       icon: Download,
       download: true,
     },
