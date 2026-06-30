@@ -32,7 +32,7 @@ export default function Navbar() {
 
         <div className="flex items-center gap-2">
           <a
-            href="/Fizza-Jabeen-Resume.pdf"
+            href="/Fizza_Jabeen_Resume.pdf"
             download
             className="inline-flex items-center gap-2 rounded-full border border-blue-400/30 bg-blue-500/15 px-4 py-2 text-xs font-semibold text-blue-300 backdrop-blur-xl transition hover:bg-blue-500 hover:text-white md:px-5 md:py-2.5 md:text-sm"
           >
