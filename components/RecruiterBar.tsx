@@ -7,7 +7,7 @@ Code2,
 
 export default function RecruiterBar() {
 return ( <div className="flex flex-wrap items-center gap-3"> <a
-     href="/Fizza-Jabeen-Resume.pdf"
+     href="/Fizza_Jabeen_Resume.pdf"
      download
      className="
        inline-flex items-center gap-2
